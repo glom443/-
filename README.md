@@ -3,7 +3,7 @@
 ## Инструкция
 * git clone https://github.com/glom443/-.git
 ### структура
-* preobrazovatel - основной файл
-* README.md - документация
+* `preobrazovatel` - основной файл
+* `README.md` - документация
 
     
